@@ -1,5 +1,5 @@
 void main() {
-  // Creating an instance of the windows class
+  // Creating an instance of the windows class////
   
   windows myLaptop = windows('Windows 10', 'Microsoft', 'Dell', 16, 15.6, true);
 
